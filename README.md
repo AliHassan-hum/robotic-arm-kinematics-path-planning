@@ -1,5 +1,4 @@
-# robotic-arm-kinematics-path-planning
-Robotic Arm Kinematics & Path Planning
+# Robotic-Arm-Kinematics-Path-Planning
 
 Project 1 — DecodeLabs Robotics & Automation Internship (Batch 2026)
 
